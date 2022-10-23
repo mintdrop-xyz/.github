@@ -3,7 +3,7 @@
 <br />
 
   <p align="center">
-    The easiest way to launch an NFTs with utility.
+    The low-code launchpad for NFTs with utility.
   </p>
 
 <p align="center">
